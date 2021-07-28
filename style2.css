@@ -235,7 +235,7 @@ marquee{
 #image2{
     margin-bottom: 20px;
 }
-@media screen , (orientation:portrait) {
+@media screen , (orientation:portrait),(max-width:480px) {
     #topbar{
         background-color: black;
         height: 10px;
